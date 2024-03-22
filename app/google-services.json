@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1022476021599",
+    "project_id": "dailyapp-417113",
+    "storage_bucket": "dailyapp-417113.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022476021599:android:64f49f787ac9d80b9290ea",
+        "android_client_info": {
+          "package_name": "com.muzafferatmaca.daily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022476021599-t4d9b8e6jl1tgvuptgp3i6vcup76pfq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG3ETWyTzwgoiNsM3RKsXwCHjQ0OZQX4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022476021599-dqjabmpfghe26i7cfppdl0dciq1f5c73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
